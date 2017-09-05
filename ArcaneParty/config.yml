@@ -1,0 +1,13 @@
+Partysize:
+ Normal: 10
+ Premium: 20
+
+sql:
+  username: 'root'
+  password: '?_9KpC4q7&#Y/Rwu'
+  url: 'mysql://192.99.2.167:3306'
+  dbname: 'arcanemc'
+ 
+ #Permissions:
+ #party.chat.color - This is needed to talk use colors in party chat
+ #party.premium - Use the premium party size
